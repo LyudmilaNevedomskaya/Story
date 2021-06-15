@@ -1,1 +1,2 @@
 It is my first story about learning GIT.
+I trying to work in another branch.
